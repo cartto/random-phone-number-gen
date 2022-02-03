@@ -1,3 +1,4 @@
+-- for vanilla lua
 local args = {
     ["area code"] = "866"
 }
